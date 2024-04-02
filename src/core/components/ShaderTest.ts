@@ -1,3 +1,4 @@
+//@ts-nocheck
 import { ACES_Inv } from "../../shader/chunk/ACES.chunk";
 import { Color, Mesh, MeshPhysicalMaterial, PlaneGeometry, Plugin, ShaderMaterial, SphereGeometry, Vector3, property } from "../libs/xviewer";
 
